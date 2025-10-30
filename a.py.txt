@@ -1,2 +1,2 @@
 def main_func():
-    return 'Original line from main' # 초기 내용
+    return 'New version on main branch' 
