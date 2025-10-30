@@ -1,2 +1,0 @@
-def main_func():
-    return 'Conflict resolved: Combined A and New version' # 최종 해결 코드
